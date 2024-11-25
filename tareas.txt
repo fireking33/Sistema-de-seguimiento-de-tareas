@@ -1,0 +1,48 @@
+Usuario: leo
+Nombre de la tarea: fisica
+Descripción: null
+Prioridad: Baja
+Estado: En progreso
+---------------------------
+Usuario: ricardo
+Nombre de la tarea: quimica
+Descripción: null
+Prioridad: Baja
+Estado: Completada
+---------------------------
+Usuario: tomas
+Nombre de la tarea: fotocopias
+Descripción: null
+Prioridad: Media
+Estado: Por hacer
+---------------------------
+Usuario: lili
+Nombre de la tarea: tenis
+Descripción: null
+Prioridad: Alta
+Estado: En progreso
+---------------------------
+Usuario: leo
+Nombre de la tarea: taller de progra
+Descripción: null
+Prioridad: Alta
+Estado: En progreso
+---------------------------
+Usuario: tylor
+Nombre de la tarea: taller final
+Descripción: añadir fecha y hora
+Prioridad: Media
+Estado: Completada
+---------------------------
+Usuario: leo
+Nombre de la tarea: taller1
+Descripción: colores
+Prioridad: Alta
+Estado: Completada
+---------------------------
+Usuario: kevin
+Nombre de la tarea: taller final
+Descripción: colores aplicados
+Prioridad: Media
+Estado: Por hacer
+---------------------------
