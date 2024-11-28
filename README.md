@@ -1,24 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 SISTEMA DE SEGUIMIENTO DE TAREAS
 Paquetes
     * com.leo.asignador_de_tareas
